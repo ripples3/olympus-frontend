@@ -132,7 +132,7 @@ function TreasuryDashboard() {
                   data={data}
                   dataKey={["totalValueLocked"]}
                   stopColor={[["#768299", "#98B3E9"]]}
-                  headerText="Total Value Locked"
+                  headerText="Total Value Deposited"
                   headerSubText={`${data && formatCurrency(data[0].totalValueLocked)}`}
                   bulletpointColors={bulletpoints.tvl}
                   itemNames={tooltipItems.tvl}
@@ -255,6 +255,7 @@ function TreasuryDashboard() {
               <Paper className="ohm-card">
                 <Chart
                   type="line"
+                  scale="log"
                   data={apy}
                   dataKey={["apy"]}
                   color={theme.palette.text.primary}
@@ -274,11 +275,11 @@ function TreasuryDashboard() {
             <Grid item lg={6} md={6} sm={12} xs={12}>
               <Paper className="ohm-card">
                 <Chart
-                  type="multi"
+                  type="line"
                   data={runway}
-                  dataKey={["runway10k", "runway20k", "runway50k"]}
+                  dataKey={["runwayCurrent"]}
                   color={theme.palette.text.primary}
-                  stroke={[theme.palette.text.primary, "#2EC608", "#49A1F2"]}
+                  stroke={[theme.palette.text.primary]}
                   headerText="Runway Available"
                   headerSubText={`${data && trim(data[0].runwayCurrent, 1)} Days`}
                   dataFormat="days"
