@@ -85,7 +85,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/25282/51827/ab942a0a-8b34-43cb-9f9f-ef1429d7ee76"
+                src="https://duneanalytics.com/embeds/188698/352348/246d0690-f887-497c-8208-7203ac9f5673"
                 title="Total Value Staking"
               />
             </div>
@@ -96,7 +96,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/25300/51969/e861a333-11eb-4198-a10f-9b5755843332"
+                src="https://duneanalytics.com/embeds/188730/352339/e62888ef-aed2-43dd-9e73-e8e418c8c034"
                 title="Market value of Treasury"
               />
             </div>
@@ -107,7 +107,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/77496/154180/badfb777-1526-4adc-9c50-1822d305578e"
+                src="https://duneanalytics.com/embeds/188758/352380/95517d96-ebdf-44a3-a0d0-82d6a8599fcd"
                 title="Risk Free Value of Treasury"
               />
             </div>
@@ -118,7 +118,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/26511/53808/f6b6538b-ec46-4aad-8857-f88255986dd8"
+                src="https://duneanalytics.com/embeds/188698/352508/cb45d9fa-ccdd-4b92-845f-57156dcddd90"
                 title="Total Value Staking"
               />
             </div>
@@ -129,7 +129,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/36698/72894/7eaad929-5e86-4cb3-aa9b-961fa0500bdf"
+                src="https://duneanalytics.com/embeds/188810/352516/1accba9c-cab4-436f-af3c-229c9d63785c"
                 title="Holders"
               />
             </div>
@@ -140,7 +140,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/77496/154187/01b7c8e6-f568-4c52-85ea-fc91b5935818"
+                src="https://duneanalytics.com/embeds/188750/352366/8aa4dfa0-6261-4e81-8a91-9f065bd0ea08"
                 title="APY Over Time"
               />
             </div>
@@ -151,7 +151,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/189821/354539/65a6d19f-4321-47cd-83db-ae2a7316ff45"
+                src="https://duneanalytics.com/embeds/188697/352375/49910501-6506-490b-abd1-bf5d09bad5d2"
                 title="OHM Stakers"
               />
             </div>
@@ -162,7 +162,7 @@ function Dashboard() {
               <iframe
                 frameBorder="0"
                 loading="lazy"
-                src="https://duneanalytics.com/embeds/25375/51990/5330f13e-30ef-4313-a560-684fdb022a0c"
+                src="https://duneanalytics.com/embeds/188697/352374/50e6b1b2-e518-47d8-8439-cea049a87862"
                 title="Runway Available"
               />
             </div>
